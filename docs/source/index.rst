@@ -8,7 +8,7 @@ and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
-
+我相信我能成功的
 .. note::
 
    This project is under active development.
